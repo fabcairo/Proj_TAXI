@@ -1,0 +1,643 @@
+Clienti:
+Abbondanza
+Accadia
+Agostini
+Alpi
+Amati
+Amato
+Angelicchio
+Antonello
+Apreda
+Arena
+Arlati
+Azzarri
+Balta
+Baragliu
+Barbieri
+Bassani
+Bassano
+Bassolino
+Bellini
+Bellino
+Bellinzoni
+Bello
+Bencivenga
+Benhadda
+Bernacci
+Bernardi
+Bernardo
+Bertini
+Bevilacqua
+Bianchi
+Bianchini
+Blasi
+Boes
+Boncompagni
+Bonventre
+Borgat
+Borrelli
+Burla
+Cagnotti
+Caldironi
+Caligari
+Caligiuri
+Callegarini
+Campana
+Cangini
+Caniglia
+Caporilli
+Caraballo
+Casadei
+Casali
+Castagna
+Cattaneo
+Cauteruccio
+Celotti
+Chesti
+Cicconi
+Conflitti
+Coppola
+Corraretti
+Cospito
+Costa
+Cozzolino
+Cusin
+D'Achille
+D'Amore
+DeCataldo
+DeFilippis
+DeFreitas
+DeLaCruz
+DeSanti
+DeStefano
+DelAguila
+Delgado
+DiLena
+DiMenna
+Diamantini
+Donatini
+Donnhauser
+Emili
+Emumwen
+Ercolani
+Espositi
+Fabbri
+Ferrante
+Ferretti
+Fiadone
+Filipek
+Filippelli
+Fiore
+Focaccia
+Fontanilla
+Forcina
+Fralassi
+Fratini
+Gallio
+Galotti
+Gasmi
+Gealapu
+Gentilini
+Giannetti
+Giuliani
+Giurgola
+Grassi
+Gutjahr
+Hajji
+Hossain
+Infante
+Jaschke
+Kazi
+Labella
+Laita
+Lanconelli
+Latini
+Lena
+Lombardo
+Lucarini
+Lucchesini
+Lucchi
+Lunerti
+Mahu
+Mamone
+Manchia
+Mancini
+Mangano
+Manzi
+Marata
+Mariano
+Marini
+Marino
+Maroncelli
+Martellini
+Martinelli
+Martinotti
+Masetti
+Medda
+Meloni
+Metozzi
+Mezzogori
+Milenov
+Minnella
+Moretti
+Morselli
+Morsiani
+Muratori
+Nurul
+Orlando
+Palazzari
+Parini
+Parravani
+Pascale
+Pepe
+Piani
+Piccoli
+Pierucci
+Pierucci
+Piras
+Pisacane
+Placidi
+Poni
+Quadalti
+Ranfi
+Rebeccato
+Ricciardi
+Rizzelli
+Rizzo
+Rucci
+Ruggieri
+Santana
+Sartorio
+Sebastiani
+Serra
+Speziale
+Spoletini
+Sposato
+Tarani
+Teodorani
+Terracciano
+Toader
+Tomassi
+Toso
+Tranquilli
+Trombino
+Vaccaro
+Valentini
+Vassura
+Vella
+Veneziani
+Veneziano
+Villani
+Vinciguerra
+Vitali
+Vitor
+Williams
+Zaccaria
+Zandoli
+Zanetti
+Zecchini
+Zepponi
+Zivkovic
+Zurzolo
+Viaggi:
+4168 Arlati 1177 16 83 67 73 44 98 85 4 69 20 
+25166 Parravani 1166 78 5 46 25 18 66 37 74 33 51 69 20 
+7714 Martinotti 1137 94 39 86 96 18 3 67 32 100 
+20037 Piani 1087 22 20 69 51 33 74 37 66 18 25 46 41 
+7569 Vinciguerra 1070 4 85 98 44 3 79 28 78 52 
+25349 Vella 1056 20 69 51 33 74 37 66 18 25 46 5 
+18269 Mangano 1044 5 46 3 44 45 54 81 57 
+24319 Cangini 1044 16 83 67 73 44 98 85 33 51 
+16770 Casadei 1016 4 85 98 44 73 67 83 16 
+15853 Caldironi 1013 33 74 37 66 18 25 46 5 52 38 
+22966 Vaccaro 1010 29 81 85 37 63 14 56 86 39 
+5143 Caligiuri 1009 76 57 81 54 49 8 70 15 32 1 16 
+20623 Galotti 995 30 48 44 18 96 86 39 94 
+8257 Cozzolino 985 5 46 25 18 66 37 74 33 51 69 
+8526 Bernardi 984 11 19 65 13 92 54 85 74 40 17 59 
+20445 Spoletini 965 91 33 74 37 66 18 25 46 79 
+4676 Focaccia 962 16 83 67 73 44 98 85 33 
+18382 Marini 950 29 81 54 45 44 3 46 
+2718 Rizzelli 947 19 23 8 48 53 73 67 79 28 78 
+7627 Terracciano 939 46 25 18 66 37 74 33 4 7 
+23528 Filippelli 928 70 48 44 18 96 86 39 
+6962 Bencivenga 924 10 58 18 66 37 74 33 51 69 75 
+17207 Gallio 924 10 58 18 66 37 74 33 51 69 75 
+3488 DeFilippis 909 27 20 69 51 33 74 37 66 18 25 
+12723 Valentini 902 38 78 28 79 3 44 98 85 
+13887 Parini 902 58 18 44 45 49 21 13 65 
+3907 Williams 893 39 86 96 18 44 45 49 
+12852 Ruggieri 893 49 45 44 18 96 86 39 
+7226 Medda 889 11 19 23 8 48 53 73 3 46 
+25578 DeCataldo 887 1 32 15 30 48 44 68 37 74 
+14489 Gealapu 885 57 81 85 68 18 58 
+25273 Fratini 872 10 58 25 3 73 30 70 35 
+4588 Nurul 871 94 34 38 
+9115 Martinelli 859 38 52 5 46 25 18 93 95 63 
+4099 Sartorio 857 19 23 21 49 45 98 68 66 2 62 
+12442 Mahu 855 79 46 25 18 66 37 74 33 
+23492 Fiore 848 99 96 58 46 79 16 
+5716 Pierucci 837 13 21 49 45 44 18 58 24 
+19225 Ranfi 835 99 93 66 68 98 54 84 42 50 
+20070 Antonello 835 71 65 13 92 54 98 68 66 2 62 
+17441 Bassani 814 72 70 48 44 68 66 93 
+1204 Callegarini 810 89 46 3 73 53 48 8 97 9 
+19118 Giannetti 809 58 18 66 37 74 33 4 7 
+11786 Fabbri 806 57 81 54 45 44 3 
+1003 Bassano 804 94 12 47 91 69 
+21886 Cattaneo 800 15 30 48 44 98 85 33 91 
+25743 DeStefano 797 42 84 54 45 44 3 79 
+12445 Celotti 791 69 51 33 74 37 66 18 58 
+379 Hajji 790 39 86 56 14 63 40 33 4 
+12680 Corraretti 789 38 34 39 
+17856 Espositi 784 35 70 30 73 3 25 58 
+5488 Pascale 781 54 45 44 3 79 28 78 
+16426 Emili 775 81 4 51 91 47 12 
+3284 Quadalti 772 13 92 54 85 37 63 14 
+19141 Boes 769 38 61 16 100 35 
+10341 Bonventre 767 100 70 8 49 54 81 29 
+18459 Chesti 767 72 100 1 83 79 28 78 52 
+15775 Zaccaria 764 11 71 50 81 4 69 75 
+26308 Angelicchio 760 59 17 40 74 85 54 92 13 
+26390 Manchia 758 60 54 45 44 3 25 
+6252 Blasi 750 35 70 30 73 3 46 5 
+25971 Zandoli 740 34 38 
+22339 Burla 733 67 3 18 96 86 39 
+10057 Sposato 729 52 5 46 25 18 93 2 
+10494 Zurzolo 729 97 8 48 53 73 67 79 28 78 
+13121 Cauteruccio 729 38 78 28 79 3 44 98 
+25996 Morselli 728 92 54 85 37 63 14 
+7532 Morsiani 727 80 70 8 49 54 81 57 76 
+20127 Barbieri 727 76 50 42 13 23 35 72 
+3867 Filipek 725 4 85 98 44 48 70 
+4065 Alpi 725 70 48 44 98 85 4 
+11978 Giuliani 721 51 33 85 98 44 48 30 
+16483 Bellinzoni 720 39 34 43 89 5 78 
+1333 Conflitti 716 92 54 85 74 40 17 59 
+16041 Laita 716 37 68 44 48 70 100 
+21854 Bassolino 712 23 13 92 54 85 37 63 95 
+9329 Labella 710 29 81 85 68 18 90 
+5967 Piras 704 66 68 98 54 92 13 65 71 
+1819 Veneziani 695 82 46 25 18 93 95 63 
+26786 D'Achille 670 75 69 4 81 60 84 92 21 
+3812 Balta 669 19 23 21 49 45 98 68 
+16909 Giurgola 669 52 5 46 25 18 66 
+2270 Lunerti 667 71 65 13 92 54 85 33 
+613 Sebastiani 659 67 3 18 96 86 
+22732 Ercolani 659 67 73 53 48 8 23 19 11 
+2287 Mezzogori 658 58 18 44 45 49 
+10147 Apreda 658 58 18 44 45 49 
+4007 Delgado 651 10 43 64 86 31 87 12 
+21284 Tarani 648 63 66 68 44 48 70 
+10670 Milenov 646 18 66 37 74 33 51 69 75 
+25281 Mancini 646 93 66 68 98 45 49 97 
+8274 Poni 645 97 8 48 53 73 67 79 
+26534 Accadia 645 2 66 68 44 48 70 80 
+8405 Benhadda 627 76 57 81 54 45 48 53 
+12966 Baragliu 626 7 4 33 40 63 14 56 
+10485 Boncompagni 623 40 37 66 18 58 10 
+9892 Mariano 603 6 44 98 85 33 51 
+16443 Ferretti 600 27 20 69 51 33 40 63 95 
+14162 Zanetti 591 3 18 66 37 40 
+23028 Bernacci 589 30 73 3 46 89 
+15486 Donnhauser 585 24 58 25 3 73 30 
+13487 Moretti 583 46 25 18 66 37 
+23079 Casali 579 37 63 14 56 86 34 
+20681 Lombardo 575 23 13 42 50 76 26 
+21678 Cusin 568 98 44 48 30 15 32 1 
+9154 Lucarini 566 40 74 85 54 92 13 
+7077 Meloni 555 63 37 85 54 84 
+5208 Gasmi 549 80 70 8 49 92 42 50 
+20524 Gutjahr 549 68 85 81 57 
+2754 Bellini 545 7 4 85 98 45 
+17946 Metozzi 535 85 37 63 14 87 
+24170 Costa 534 29 81 54 45 44 
+6169 Zivkovic 529 46 3 44 98 
+14354 Jaschke 529 33 85 54 92 21 
+4288 Zepponi 527 95 63 17 47 22 
+17442 Bello 526 48 53 73 3 25 58 
+27494 DiLena 524 65 50 81 4 
+3647 Lanconelli 522 68 37 74 33 51 69 88 
+4278 Toso 522 12 14 93 18 90 
+18452 Latini 519 47 12 87 31 
+17559 Bevilacqua 498 6 44 68 66 63 
+24719 Orlando 488 75 69 51 33 74 37 66 
+3791 Caraballo 486 13 21 97 8 70 80 77 
+8418 Vassura 486 8 45 98 68 37 
+14337 Cagnotti 485 9 97 8 48 53 73 3 
+1140 Veneziano 474 81 4 51 91 47 
+23572 Bertini 472 56 14 93 18 25 
+10273 Grassi 470 98 85 4 69 
+22659 Bellino 467 49 54 85 33 
+24241 Palazzari 464 49 54 85 37 
+23345 Minnella 463 29 81 85 74 
+15313 Santana 462 43 38 
+26051 Marino 462 43 58 25 3 67 
+13694 Cicconi 457 29 81 85 37 
+3829 Forcina 454 72 35 23 13 42 
+24804 Emumwen 453 37 66 18 58 
+18158 Tomassi 444 28 79 83 32 
+22301 DelAguila 438 41 46 3 73 53 
+24063 Cospito 437 72 35 23 13 92 84 
+26209 Pepe 436 98 85 33 91 
+20258 Marata 433 18 93 95 63 17 
+7382 Amati 424 1 83 79 46 41 
+9267 Borgat 424 95 14 56 31 94 
+23411 Caporilli 421 84 54 45 48 30 
+22171 Bernardo 407 39 86 96 93 2 
+2702 D'Amore 406 8 45 98 68 66 
+756 Caligari 405 61 79 67 
+19293 Fiadone 405 87 14 93 66 68 
+2905 Lucchesini 404 3 18 66 
+24130 Coppola 403 59 47 22 
+13343 Bianchini 398 49 8 70 15 32 
+11767 Azzarri 395 14 63 40 33 
+19006 DeFreitas 391 36 68 44 6 53 
+16976 Gentilini 388 66 37 40 55 
+5854 Maroncelli 384 66 37 74 33 91 
+16329 DeLaCruz 380 89 5 78 61 
+26585 Muratori 361 48 44 18 
+21198 Martellini 355 81 4 33 
+26317 Bianchi 345 51 33 40 63 95 
+8684 Masetti 338 37 74 33 51 69 
+9478 Campana 337 57 81 85 
+10992 Hossain 325 89 46 3 
+21788 Pierucci 302 12 59 63 95 
+25014 Infante 302 97 8 70 
+27706 Trombino 297 29 76 26 7 
+19864 Donatini 287 40 33 4 
+18878 Castagna 286 7 4 81 
+4815 Arena 283 96 93 95 63 
+11518 Serra 280 90 58 89 
+12517 Caniglia 278 35 19 
+26150 Tranquilli 278 18 93 95 63 
+14175 Amato 267 84 54 85 
+6043 Speziale 266 100 1 83 
+20441 Teodorani 261 53 48 8 97 9 
+15638 Vitali 257 93 95 63 59 
+5893 Placidi 249 70 15 32 1 
+14707 Agostini 243 61 78 5 
+3104 Kazi 242 44 3 
+11137 Borrelli 226 3 73 6 
+17444 Abbondanza 226 48 30 15 32 
+18355 Diamantini 220 26 7 69 75 
+25613 Ferrante 217 68 37 74 
+16902 Zecchini 213 26 4 51 
+21546 Piccoli 210 35 70 
+18777 Lena 205 82 79 83 
+17469 Pisacane 199 65 13 92 84 
+23266 Rebeccato 184 96 86 39 
+7383 Mamone 176 97 23 65 
+5214 Villani 162 9 49 45 
+9761 DeSanti 149 86 56 
+26171 DiMenna 137 89 5 
+26299 Fontanilla 137 4 69 88 
+26598 Ricciardi 126 43 64 
+14548 Manzi 113 73 30 
+17409 Lucchi 81 49 45 
+5873 Toader 73 53 73 
+14546 Fralassi 64 61 38 
+25196 Rucci 62 3 67 
+21853 Vitor 35 57 29 
+10011 Rizzo 33 82 28 
+Posizioni: 1 27 94 11 38 22 61 34 71 12 
+Eventi:
+379 CHIAMATA 0 Hajji
+613 CHIAMATA 0 Sebastiani
+756 CHIAMATA 0 Caligari
+1003 CHIAMATA 0 Bassano
+1140 CHIAMATA 0 Veneziano
+1204 CHIAMATA 0 Callegarini
+1333 CHIAMATA 0 Conflitti
+1819 CHIAMATA 0 Veneziani
+2270 CHIAMATA 0 Lunerti
+2287 CHIAMATA 0 Mezzogori
+2702 CHIAMATA 0 D'Amore
+2718 CHIAMATA 0 Rizzelli
+2754 CHIAMATA 0 Bellini
+2905 CHIAMATA 0 Lucchesini
+3104 CHIAMATA 0 Kazi
+3284 CHIAMATA 0 Quadalti
+3488 CHIAMATA 0 DeFilippis
+3647 CHIAMATA 0 Lanconelli
+3791 CHIAMATA 0 Caraballo
+3812 CHIAMATA 0 Balta
+3829 CHIAMATA 0 Forcina
+3867 CHIAMATA 0 Filipek
+3907 CHIAMATA 0 Williams
+4007 CHIAMATA 0 Delgado
+4065 CHIAMATA 0 Alpi
+4099 CHIAMATA 0 Sartorio
+4168 CHIAMATA 0 Arlati
+4278 CHIAMATA 0 Toso
+4288 CHIAMATA 0 Zepponi
+4588 CHIAMATA 0 Nurul
+4676 CHIAMATA 0 Focaccia
+4815 CHIAMATA 0 Arena
+5143 CHIAMATA 0 Caligiuri
+5208 CHIAMATA 0 Gasmi
+5214 CHIAMATA 0 Villani
+5488 CHIAMATA 0 Pascale
+5716 CHIAMATA 0 Pierucci
+5854 CHIAMATA 0 Maroncelli
+5873 CHIAMATA 0 Toader
+5893 CHIAMATA 0 Placidi
+5967 CHIAMATA 0 Piras
+6043 CHIAMATA 0 Speziale
+6169 CHIAMATA 0 Zivkovic
+6252 CHIAMATA 0 Blasi
+6962 CHIAMATA 0 Bencivenga
+7077 CHIAMATA 0 Meloni
+7226 CHIAMATA 0 Medda
+7324 FINE_SERVIZIO 5 Lunerti
+7382 CHIAMATA 0 Amati
+7383 CHIAMATA 0 Mamone
+7532 CHIAMATA 0 Morsiani
+7569 CHIAMATA 0 Vinciguerra
+7627 CHIAMATA 0 Terracciano
+7714 CHIAMATA 0 Martinotti
+7818 FINE_SERVIZIO 6 Caligari
+8257 CHIAMATA 0 Cozzolino
+8274 CHIAMATA 0 Poni
+8405 CHIAMATA 0 Benhadda
+8418 CHIAMATA 0 Vassura
+8526 CHIAMATA 0 Bernardi
+8634 FINE_SERVIZIO 4 Hajji
+8684 CHIAMATA 0 Masetti
+9115 CHIAMATA 0 Martinelli
+9154 CHIAMATA 0 Lucarini
+9267 CHIAMATA 0 Borgat
+9329 CHIAMATA 0 Labella
+9478 CHIAMATA 0 Campana
+9761 CHIAMATA 0 DeSanti
+9892 CHIAMATA 0 Mariano
+10011 CHIAMATA 0 Rizzo
+10057 CHIAMATA 0 Sposato
+10147 CHIAMATA 0 Apreda
+10273 CHIAMATA 0 Grassi
+10341 CHIAMATA 0 Bonventre
+10485 CHIAMATA 0 Boncompagni
+10494 CHIAMATA 0 Zurzolo
+10670 CHIAMATA 0 Milenov
+10992 CHIAMATA 0 Hossain
+11137 CHIAMATA 0 Borrelli
+11475 FINE_SERVIZIO 4 Lucarini
+11518 CHIAMATA 0 Serra
+11767 CHIAMATA 0 Azzarri
+11786 CHIAMATA 0 Fabbri
+11978 CHIAMATA 0 Giuliani
+12442 CHIAMATA 0 Mahu
+12445 CHIAMATA 0 Celotti
+12517 CHIAMATA 0 Caniglia
+12680 CHIAMATA 0 Corraretti
+12723 CHIAMATA 0 Valentini
+12852 CHIAMATA 0 Ruggieri
+12966 CHIAMATA 0 Baragliu
+13121 CHIAMATA 0 Cauteruccio
+13343 CHIAMATA 0 Bianchini
+13487 CHIAMATA 0 Moretti
+13694 CHIAMATA 0 Cicconi
+13887 CHIAMATA 0 Parini
+14162 CHIAMATA 0 Zanetti
+14175 CHIAMATA 0 Amato
+14337 CHIAMATA 0 Cagnotti
+14354 CHIAMATA 0 Jaschke
+14489 CHIAMATA 0 Gealapu
+14546 CHIAMATA 0 Fralassi
+14548 CHIAMATA 0 Manzi
+14707 CHIAMATA 0 Agostini
+15313 CHIAMATA 0 Santana
+15384 FINE_SERVIZIO 3 Conflitti
+15486 CHIAMATA 0 Donnhauser
+15638 CHIAMATA 0 Vitali
+15775 CHIAMATA 0 Zaccaria
+15853 CHIAMATA 0 Caldironi
+15875 FINE_SERVIZIO 9 Bassano
+16041 CHIAMATA 0 Laita
+16120 FINE_SERVIZIO 1 Mezzogori
+16329 CHIAMATA 0 DeLaCruz
+16426 CHIAMATA 0 Emili
+16443 CHIAMATA 0 Ferretti
+16483 CHIAMATA 0 Bellinzoni
+16770 CHIAMATA 0 Casadei
+16902 CHIAMATA 0 Zecchini
+16909 CHIAMATA 0 Giurgola
+16976 CHIAMATA 0 Gentilini
+17207 CHIAMATA 0 Gallio
+17409 CHIAMATA 0 Lucchi
+17441 CHIAMATA 0 Bassani
+17442 CHIAMATA 0 Bello
+17444 CHIAMATA 0 Abbondanza
+17469 CHIAMATA 0 Pisacane
+17559 CHIAMATA 0 Bevilacqua
+17856 CHIAMATA 0 Espositi
+17946 CHIAMATA 0 Metozzi
+18158 CHIAMATA 0 Tomassi
+18269 CHIAMATA 0 Mangano
+18355 CHIAMATA 0 Diamantini
+18382 CHIAMATA 0 Marini
+18452 CHIAMATA 0 Latini
+18459 CHIAMATA 0 Chesti
+18777 CHIAMATA 0 Lena
+18878 CHIAMATA 0 Castagna
+19006 CHIAMATA 0 DeFreitas
+19118 CHIAMATA 0 Giannetti
+19141 CHIAMATA 0 Boes
+19225 CHIAMATA 0 Ranfi
+19293 CHIAMATA 0 Fiadone
+19864 CHIAMATA 0 Donatini
+20037 CHIAMATA 0 Piani
+20070 CHIAMATA 0 Antonello
+20127 CHIAMATA 0 Barbieri
+20240 FINE_SERVIZIO 8 Veneziani
+20258 CHIAMATA 0 Marata
+20269 FINE_SERVIZIO 6 Poni
+20419 FINE_SERVIZIO 4 Bianchini
+20441 CHIAMATA 0 Teodorani
+20445 CHIAMATA 0 Spoletini
+20524 CHIAMATA 0 Gutjahr
+20558 RIENTRO_SEDE 4
+20623 CHIAMATA 0 Galotti
+20681 CHIAMATA 0 Lombardo
+21198 CHIAMATA 0 Martellini
+21284 CHIAMATA 0 Tarani
+21546 CHIAMATA 0 Piccoli
+21678 CHIAMATA 0 Cusin
+21788 CHIAMATA 0 Pierucci
+21853 CHIAMATA 0 Vitor
+21854 CHIAMATA 0 Bassolino
+21886 CHIAMATA 0 Cattaneo
+22171 CHIAMATA 0 Bernardo
+22301 CHIAMATA 0 DelAguila
+22339 CHIAMATA 0 Burla
+22659 CHIAMATA 0 Bellino
+22732 CHIAMATA 0 Ercolani
+22966 CHIAMATA 0 Vaccaro
+23028 CHIAMATA 0 Bernacci
+23079 CHIAMATA 0 Casali
+23246 FINE_SERVIZIO 10 Callegarini
+23266 CHIAMATA 0 Rebeccato
+23332 FINE_SERVIZIO 1 DeLaCruz
+23345 CHIAMATA 0 Minnella
+23411 CHIAMATA 0 Caporilli
+23492 CHIAMATA 0 Fiore
+23528 CHIAMATA 0 Filippelli
+23572 CHIAMATA 0 Bertini
+24063 CHIAMATA 0 Cospito
+24107 FINE_SERVIZIO 8 Marata
+24130 CHIAMATA 0 Coppola
+24158 FINE_RICARICA 4
+24170 CHIAMATA 0 Costa
+24241 CHIAMATA 0 Palazzari
+24298 FINE_SERVIZIO 9 Laita
+24319 CHIAMATA 0 Cangini
+24482 RIENTRO_SEDE 9
+24719 CHIAMATA 0 Orlando
+24804 CHIAMATA 0 Emumwen
+25014 CHIAMATA 0 Infante
+25166 CHIAMATA 0 Parravani
+25196 CHIAMATA 0 Rucci
+25273 CHIAMATA 0 Fratini
+25281 CHIAMATA 0 Mancini
+25349 CHIAMATA 0 Vella
+25578 CHIAMATA 0 DeCataldo
+25613 CHIAMATA 0 Ferrante
+25743 CHIAMATA 0 DeStefano
+25934 FINE_SERVIZIO 5 Amati
+25971 CHIAMATA 0 Zandoli
+25996 CHIAMATA 0 Morselli
+26051 CHIAMATA 0 Marino
+26072 FINE_SERVIZIO 8 Emumwen
+26150 CHIAMATA 0 Tranquilli
+26171 CHIAMATA 0 DiMenna
+26209 CHIAMATA 0 Pepe
+26299 CHIAMATA 0 Fontanilla
+26308 CHIAMATA 0 Angelicchio
+26317 CHIAMATA 0 Bianchi
+26358 RIENTRO_SEDE 5
+26390 CHIAMATA 0 Manchia
+26534 CHIAMATA 0 Accadia
+26585 CHIAMATA 0 Muratori
+26598 CHIAMATA 0 Ricciardi
+26786 CHIAMATA 0 D'Achille
+26854 FINE_SERVIZIO 6 DiMenna
+26955 FINE_SERVIZIO 7 Veneziano
+27174 FINE_SERVIZIO 2 Sebastiani
+27256 RIENTRO_SEDE 6
+27494 CHIAMATA 0 DiLena
+27548 FINE_SERVIZIO 4 Costa
+27590 FINE_SERVIZIO 1 Rucci
+27706 CHIAMATA 0 Trombino
+27925 FINE_SERVIZIO 10 Rebeccato
+28018 FINE_SERVIZIO 3 Donnhauser
+28082 FINE_RICARICA 9
+28273 RIENTRO_SEDE 3
+28515 FINE_SERVIZIO 7 Trombino
+31682 FINE_RICARICA 5
+35282 FINE_RICARICA 6
+38882 FINE_RICARICA 3
+Rifiuti: 176
+Ricariche: 5
+Tempo totale: 30539
+Guadagno: 55560
+UB: 484667
